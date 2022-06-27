@@ -1,0 +1,3 @@
+[submodule "dacapobench"]
+	path = dacapobench
+	url = https://github.com/dacapobench/dacapobench.git
